@@ -1,1 +1,2 @@
-# Product Image Migration Tool
+# Product Image Updater
+Product Image Migration Tool
